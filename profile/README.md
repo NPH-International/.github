@@ -1,4 +1,4 @@
-<img width="1313" height="615" alt="image" src="https://github.com/user-attachments/assets/f66374bf-c67b-44d4-9930-f51e5d8af32d" /># Welcome to NPH International 👋
+# Welcome to NPH International 👋
 
 ## Digital Landscape
 

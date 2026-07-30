@@ -35,10 +35,6 @@ This organization contains the source code and configuration for the Digital Lan
 - [SF_Main](https://github.com/NPH-International/SF_Main)
 - [SF_Fundraising](https://github.com/NPH-International/SF_Fundraising)
 
-### Experience Cloud
-
-- [SF_Cloud_ECP](https://github.com/NPH-International/SF_Cloud_ECP)
-
 ### HR
 
 - [SF_Cloud_HR](https://github.com/NPH-International/SF_Cloud_HR)
@@ -46,6 +42,7 @@ This organization contains the source code and configuration for the Digital Lan
 ### Sponsorship
 
 - [SF_Cloud_Sponsorship](https://github.com/NPH-International/SF_Cloud_Sponsorship)
+- [SF_Cloud_ECP](https://github.com/NPH-International/SF_Cloud_ECP)
 
 ### Volunteers
 
@@ -63,7 +60,7 @@ This organization contains the source code and configuration for the Digital Lan
 
 ---
 
-## 💼 Business Applications
+## 💼 Other Applications
 
 - [EMR_Main](https://github.com/NPH-International/EMR_Main)
 - [IH_Main](https://github.com/NPH-International/IH_Main)

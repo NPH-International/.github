@@ -1,21 +1,25 @@
-# Welcome to NPH International 👋
+<img width="1313" height="615" alt="image" src="https://github.com/user-attachments/assets/f66374bf-c67b-44d4-9930-f51e5d8af32d" /># Welcome to NPH International 👋
 
 ## Digital Landscape
 
 This GitHub organization hosts the software and infrastructure supporting
 NPH International.
 
-### Projects
+### Repositories
 - 🌐 Main Website
 - 🎫 Helpdesk
-- ☁️ Cloud Environment
+- ☁️ Salesforce Cloud Environment
 - 📸 Media Gallery
+- ...
 
-### Documentation
+### Documentation (work in progress)
 - Development Guidelines
 - Architecture
 - Deployment
 - Security
+
+### Oauth Apps
+- Microsoft Power Platform
 
 ### Contact
 IT Team - gerben.dekoninggans@nph.org

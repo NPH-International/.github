@@ -63,7 +63,7 @@ This organization contains the source code and configuration for the Digital Lan
 ## 💼 Other Applications
 
 - [EMR_Main](https://github.com/NPH-International/EMR_Main)
-- [IH_Main](https://github.com/NPH-International/IH_Main)
+- [JH_Main](https://github.com/NPH-International/JH_Main)
 - [NAV_Main](https://github.com/NPH-International/NAV_Main)
 
 ---

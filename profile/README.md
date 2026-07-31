@@ -20,6 +20,7 @@ This organization contains the source code and configuration for the Digital Lan
 - [Homepage](https://github.com/NPH-International/.github/wiki)
 
 ## Latest Pages
+- [Release Note Template](https://github.com/NPH-International/.github/wiki/Release-Notes-Template)
 - [Solution Version Management](https://github.com/NPH-International/.github/wiki/Solution-Version-Management)
 
 ---

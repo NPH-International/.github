@@ -6,14 +6,14 @@ This organization contains the source code and configuration for the Digital Lan
 
 ---
 # 🎩 Content
-- [ℹ️ WIKI](https://github.com/NPH-International#-wiki)
+- [ℹ️ WIKI](https://github.com/NPH-International#%E2%84%B9%EF%B8%8F-wiki)
 - [📂 Repositories](https://github.com/NPH-International#-repositories)
   - [WordPress](https://github.com/NPH-International#-wordpress)
   - [SharePoint](https://github.com/NPH-International#-sharepoint)
   - [Salesforce](https://github.com/NPH-International#-salesforce)
   - [Intranet](https://github.com/NPH-International#-intranet)
   - [Other](https://github.com/NPH-International#-other)
-- [📧 Contact](https://github.com/NPH-International#contact)
+- [📧 Contact](https://github.com/NPH-International#-contact)
 
 ---
 # ℹ️ WIKI

@@ -5,6 +5,24 @@ Welcome to the **NPH International** GitHub organization.
 This organization contains the source code and configuration for the Digital Landscape of NPH International.
 
 ---
+# 🎩 Content
+- [ℹ️ WIKI](https://github.com/NPH-International#-wiki)
+- [📂 Repositories](https://github.com/NPH-International#-repositories)
+  - [WordPress](https://github.com/NPH-International#-wordpress)
+  - [SharePoint](https://github.com/NPH-International#-sharepoint)
+  - [Salesforce](https://github.com/NPH-International#-salesforce)
+  - [Intranet](https://github.com/NPH-International#-intranet)
+  - [Other](https://github.com/NPH-International#-other)
+- [📧 Contact](https://github.com/NPH-International#contact)
+
+---
+# ℹ️ WIKI
+- [Homepage](https://github.com/NPH-International/.github/wiki)
+
+## Latest Pages
+- [Solution Version Management](https://github.com/NPH-International/.github/wiki/Solution-Version-Management)
+
+---
 
 # 📂 Repositories
 
@@ -68,15 +86,5 @@ This organization contains the source code and configuration for the Digital Lan
 
 ---
 
-
-### Documentation (work in progress)
-- Development Guidelines
-- Architecture
-- Deployment
-- Security
-
-### Oauth Apps
-- Microsoft Power Platform
-
-### Contact
+# 📧 Contact
 IT Team - gerben.dekoninggans@nph.org
